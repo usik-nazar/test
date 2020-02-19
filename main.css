@@ -1,0 +1,19 @@
+body{
+	font-family: serif;
+}
+
+h1{
+	font-size: 2rem;
+	color: red;
+	text-decoration: underline;
+}
+
+ul{
+	padding: 10px;
+	border: 1px dashed grey;
+	border-radius: 5px;
+}
+
+li{
+	color: grey;
+}
